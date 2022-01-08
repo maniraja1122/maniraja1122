@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maniraja1122
-- 👀 I’m interested in Python and Game Developement
-- 🌱 I’m currently learning Python GUI
-- 💞️ I’m looking to collaborate on Python Projects
+- 👀 I started from Python and Game Developement
+- 🌱 Now working on Kotlin Android Projects
+- 💞️ I’m looking to collaborate on Projects
 - 📫 Email :: amraja369@gmail.com
 
 <!---
