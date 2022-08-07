@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @maniraja1122
-- 👀 I started from Python and Game Developement
-- 🌱 Now working on Kotlin Android Projects
-- 💞️ I’m looking to collaborate on Projects
-- 📫 Email :: amraja369@gmail.com
+<div align="center">
 
-<!---
-maniraja1122/maniraja1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h3>Android Learner | Kotlin | Flutter </h3>
+
+</div>
+<div align="center">
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maniraja1122&theme=blue-green)
+
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=maniraja1122&show_icons=true&locale=en" alt="aryasoni98" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=maniraja1122&" alt="aryasoni98" /></p>
+
+[![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=maniraja1122&theme=react-dark)](https://github.com/maniraja1122/github-readme-activity-graph)
+
+
+
+
+</div>
