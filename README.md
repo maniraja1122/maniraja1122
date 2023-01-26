@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<h3>Android Learner | Kotlin | Flutter </h3>
+<h3>Android Developer | Competitive Programming</h3>
 
 </div>
 <div align="center">
@@ -12,8 +12,10 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=maniraja1122&" alt="maniraja1122" /></p>
 
-[![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=maniraja1122&theme=react-dark)](https://github.com/maniraja1122/github-readme-activity-graph)
-
+🔗 &nbsp;**Competitive Programming**
+<p align="left">
+<a href="https://www.hackerrank.com/Mani1122" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HR" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mani1122/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="GFG" height="30" width="40" /></a>
 
 
 
