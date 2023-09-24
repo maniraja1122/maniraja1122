@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<h3>Android Developer | Competitive Programming</h3>
+<h3>AI | Android Developer | Competitive Programming</h3>
 
 </div>
 <div align="center">
