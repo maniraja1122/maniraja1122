@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<h3>DevOps | AI | Android Developer | Competitive Programming</h3>
+<h3>Learning DevOps</h3>
 
 </div>
 <div align="center">
