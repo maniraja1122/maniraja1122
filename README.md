@@ -40,13 +40,13 @@ Thanks for stopping by my GitHub—check out my repositories for some of my favo
 
 </div>
 <div align="center">
-
+<!---
 ![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maniraja1122&theme=blue-green)
-
+-->
 <p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maniraja1122&show_icons=true&locale=en" alt="maniraja1122" /></p>
-
+<!---
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=maniraja1122&" alt="maniraja1122" /></p>
-
+-->
 🔗 &nbsp;**Competitive Programming**
 <p align="left">
 <a href="https://www.hackerrank.com/Mani1122" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HR" height="30" width="40" /></a>
