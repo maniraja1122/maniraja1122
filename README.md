@@ -11,7 +11,7 @@ I’m a **Software Engineer** passionate about building smart, scalable solution
 
 - **AI/ML**: TensorFlow, Keras, PyTorch, ComfyUI, Ostris, LangChain  
   *Focus:* Computer Vision (CNNs), NLP  
-- **Data**: SQL, Pandas, DBT, Airflow  
+- **Data**: SQL, Pandas, DBT, Airflow, SQLMesh
 - **Cloud/DevOps**: Kubernetes, Docker, Helm, AWS (EKS, ECS, ECR, EC2, VPC, S3, DynamoDB, etc.), CI/CD (ArgoCD, Jenkins, GitLab, GitHub Actions), GitOps (Rancher), IaC (Terraform, Pulumi in Go/Python)  
 - **Development**: NestJS, Flutter, Kotlin (Android Native), Next.js, React, FastAPI, GoFiber  
 - **Databases**: SQL, NoSQL (Firebase, MongoDB), ORMs (TypeORM, GORM)  
